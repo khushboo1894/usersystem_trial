@@ -34,11 +34,6 @@ CREATE TABLE `admin` (
   `password` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
-CREATE TABLE `admindemo` (
-  `id1` int(11) NOT NULL,
-  `username1` varchar(255) NOT NULL,
-  `password1` varchar(255) NOT NULL
-) 
 --
 -- Dumping data for table `admin`
 --
