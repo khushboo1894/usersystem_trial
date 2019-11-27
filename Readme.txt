@@ -1,3 +1,4 @@
+Read it.
 How to run the User Registration & Login and User Management System With admin panel Project
 
 1. Download the  zip file
