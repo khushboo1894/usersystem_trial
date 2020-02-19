@@ -1,0 +1,7 @@
+[submodule "usersystem_trial"]
+	path = usersystem_trial
+	url = https://github.com/khushboo1894/usersystem_trial
+	branch = master
+[submodule "rock"]
+	path = rock
+	url = https://github.com/khushboo1894/usersystem_trial
